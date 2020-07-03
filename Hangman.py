@@ -98,3 +98,4 @@ while turns > 0:
     
         # print "You Loose"
             print ("\nYou Loose")  
+        print("Added by me")
