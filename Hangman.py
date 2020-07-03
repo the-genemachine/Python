@@ -1,4 +1,5 @@
 #importing the time module
+#added by me locally July 3rd 2020
 import time
 #importing the random module
 import random
@@ -98,4 +99,4 @@ while turns > 0:
     
         # print "You Loose"
             print ("\nYou Loose")  
-        print("Added by me")
+        print("Hangman is great but more like guess a word...")
